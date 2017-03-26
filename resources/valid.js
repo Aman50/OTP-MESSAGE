@@ -11,8 +11,6 @@ function validMobile()
 		 {
 			 document.getElementById("mob").style.border = "1px solid green";
 			 
-			 
-			 
 		 }
       }	
 function sendOTP() {
